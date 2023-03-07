@@ -1,22 +1,22 @@
 {
-  "name": "robinsondev428.github.io",
+  "name": "agiledev0115.github.io",
   "version": "2.0.0",
-  "description": "Xavi Hernandez (robinsondev428)'s Personal Portfolio",
+  "description": "Alexander Richard (agiledev0115)'s Personal Portfolio",
   "main": "index.js",
-  "author": "Xavi Hernandez",
+  "author": "Alexander Richard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/robinsondev428/robinsondev428.github.io/issues"
+    "url": "https://github.com/agiledev0115/agiledev0115.github.io/issues"
   },
   "keywords": [
     "Jayant",
-    "Xavi Hernandez",
-    "Xavi Hernandez Portfolio",
-    "robinsondev428",
-    "Xavi Hernandez (robinsondev428)'s Personal Portfolio"
+    "Alexander Richard",
+    "Alexander Richard Portfolio",
+    "agiledev0115",
+    "Alexander Richard (agiledev0115)'s Personal Portfolio"
   ],
-  "repository": "https://github.com/robinsondev428/robinsondev428.github.io",
-  "homepage": "https://robinsondev428.github.io",
+  "repository": "https://github.com/agiledev0115/agiledev0115.github.io",
+  "homepage": "https://agiledev0115.github.io",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

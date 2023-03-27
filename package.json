@@ -1,55 +1,55 @@
 {
-  "name": "agiledev0115.github.io",
-  "version": "2.0.0",
-  "description": "Alexander Richard (agiledev0115)'s Personal Portfolio",
-  "main": "index.js",
-  "author": "Alexander Richard",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/agiledev0115/agiledev0115.github.io/issues"
-  },
-  "keywords": [
-    "Jayant",
-    "Alexander Richard",
-    "Alexander Richard Portfolio",
-    "agiledev0115",
-    "Alexander Richard (agiledev0115)'s Personal Portfolio"
-  ],
-  "repository": "https://github.com/agiledev0115/agiledev0115.github.io",
-  "homepage": "https://agiledev0115.github.io",
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test"
-  },
-  "dependencies": {
-    "@angular/animations": "^15.2.4",
-    "@angular/common": "^15.2.4",
-    "@angular/compiler": "^15.2.4",
-    "@angular/core": "^15.2.4",
-    "@angular/forms": "^15.2.4",
-    "@angular/platform-browser": "^15.2.4",
-    "@angular/platform-browser-dynamic": "^15.2.4",
-    "@angular/router": "^15.2.4",
-    "@angular/service-worker": "^15.2.4",
-    "@ng-bootstrap/ng-bootstrap": "^14.0.1",
-    "zone.js": "~0.13.0"
-  },
-  "devDependencies": {
-    "@angular-devkit/build-angular": "^15.2.4",
-    "@angular/cli": "^15.2.4",
-    "@angular/compiler-cli": "^15.2.4",
-    "@types/jasmine": "~4.3.1",
-    "@types/node": "^18.15.10",
-    "angular-cli-ghpages": "^1.0.5",
-    "jasmine-core": "~4.6.0",
-    "karma": "~6.4.1",
-    "karma-chrome-launcher": "~3.1.1",
-    "karma-coverage": "~2.2.0",
-    "karma-jasmine": "~5.1.0",
-    "karma-jasmine-html-reporter": "^2.0.0",
-    "typescript": "~5.0.2"
-  }
+	"name": "agiledev0115.github.io",
+	"version": "2.0.0",
+	"description": "Alexander Richard (agiledev0115)'s Personal Portfolio",
+	"main": "index.js",
+	"author": "Alexander Richard",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/agiledev0115/agiledev0115.github.io/issues"
+	},
+	"keywords": [
+		"Jayant",
+		"Alexander Richard",
+		"Alexander Richard Portfolio",
+		"agiledev0115",
+		"Alexander Richard (agiledev0115)'s Personal Portfolio"
+	],
+	"repository": "https://github.com/agiledev0115/agiledev0115.github.io",
+	"homepage": "https://agiledev0115.github.io",
+	"scripts": {
+		"ng": "ng",
+		"start": "ng serve",
+		"build": "ng build",
+		"watch": "ng build --watch --configuration development",
+		"test": "ng test"
+	},
+	"dependencies": {
+		"@angular/animations": "^15.0.2",
+		"@angular/common": "^15.0.2",
+		"@angular/compiler": "^15.0.2",
+		"@angular/core": "^15.0.2",
+		"@angular/forms": "^15.0.2",
+		"@angular/platform-browser": "^15.0.2",
+		"@angular/platform-browser-dynamic": "^15.0.2",
+		"@angular/router": "^15.0.2",
+		"@angular/service-worker": "^15.0.2",
+		"@ng-bootstrap/ng-bootstrap": "^10.0.0",
+		"zone.js": "~0.11.4"
+	},
+	"devDependencies": {
+		"@angular-devkit/build-angular": "^15.0.2",
+		"@angular/cli": "^15.0.2",
+		"@angular/compiler-cli": "^15.0.2",
+		"@types/jasmine": "~3.6.0",
+		"@types/node": "^12.11.1",
+		"angular-cli-ghpages": "^1.0.0-rc.2",
+		"jasmine-core": "~3.7.0",
+		"karma": "~6.3.14",
+		"karma-chrome-launcher": "~3.1.0",
+		"karma-coverage": "~2.0.3",
+		"karma-jasmine": "~4.0.0",
+		"karma-jasmine-html-reporter": "^1.5.0",
+		"typescript": "~4.8.4"
+	}
 }
